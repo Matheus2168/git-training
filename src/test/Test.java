@@ -8,6 +8,6 @@ public class Test {
         System.out.println("Master");
         System.out.println();
 
-        System.out.println("feature2");
+        System.out.println("feature4");
     }
 }
