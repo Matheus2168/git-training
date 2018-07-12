@@ -7,5 +7,7 @@ public class Test {
         System.out.println();
         System.out.println("Master");
         System.out.println();
+
+        System.out.println("feature2");
     }
 }
