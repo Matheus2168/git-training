@@ -9,5 +9,6 @@ public class Test {
         System.out.println();
 
         System.out.println("feature4");
+        System.out.println("test");
     }
 }
