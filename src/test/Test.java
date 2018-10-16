@@ -10,5 +10,6 @@ public class Test {
 
         System.out.println("feature4");
         System.out.println("test");
+        System.out.println("test");
     }
 }
